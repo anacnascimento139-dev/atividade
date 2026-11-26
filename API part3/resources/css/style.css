@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+h1 {color: #fbf7e8;}
+body {
+    background-image: url("https://i.pinimg.com/736x/3a/fa/ae/3afaaef3c3c806b602ae89c6d9a83998.jpg");
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+h1 {
+    margin-left: 30px; 
+    font-family: Tangerine;
+    font-size: 50px;
+}
+body {
+    text-align: center;
+}
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+    text-align: center;
+}
+li {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+li {
+color: rgb(4, 3, 3);}
+
+div{
+    width: 600px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+background-color: #ffd6f1;
+border-radius: 15px;
+}
